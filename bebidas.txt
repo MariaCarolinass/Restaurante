@@ -1,0 +1,5 @@
+1;Bebida a;6.0
+2;Bebida b;3.0
+3;Bebida c;4.5
+4;Bebida d;9.0
+5;fj;22.0

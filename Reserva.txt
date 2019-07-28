@@ -1,0 +1,3 @@
+2;Nome: Mara Carol; CPF: 123678004; Data: 28/02; Acentos: 5; Mesa: 40
+3;Nome: Carol Soares; CPF: 12563748002; Data: 02/03; Acentos: 3; Mesa: 48
+4;Nome: yftf; CPF: 43435; Data: 12/02/2019; Acentos: 2; Mesa: 45

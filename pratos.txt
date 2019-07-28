@@ -1,0 +1,4 @@
+1;Prato a;12.0
+2;Prato b;25.0
+3;Prato c;45.0
+4;Prato d;55.0

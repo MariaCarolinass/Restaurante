@@ -1,0 +1,5 @@
+1;Promo1;17.0
+2;Promo2;22.0
+3;Promo3;45.0
+4;Promo4;54.0
+5;hsdds;21.0
